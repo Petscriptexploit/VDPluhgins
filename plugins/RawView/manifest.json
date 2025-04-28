@@ -1,19 +1,7 @@
 {
-  "name": "RawViewer",
-  "description": "View messages in thier raw form",
-  "authors": [
-    {
-      "name": "K",
-      "id": "0"
-    },
-    {
-      "name": "O",
-      "id": "1"
+    "name": "ViewRaw",
+    "description": "View Raw content of messages",
+    "vendetta": {
+        "icon": "StatusIdle"
     }
-  ],
-  "main": "src/index.tsx",
-  "vendetta": {
-    "icon": "ic_chat_bubble_16px"
-  }
 }
-
