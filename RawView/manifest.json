@@ -1,1 +1,1 @@
-{"name":"RawViewer","description":"View messages in thier raw form","authors":[{"name":"K","id":"0"},{"name":"O","id":"1"}],"main":"index.js","vendetta":{"icon":"ic_chat_bubble_16px"},"hash":"e171226e04cdac1d8837b379b858f11b3b53c308baed2c76cf9f77f665f0e985"}
+{"authors":[{"name":"undumbledore","id":"1328463921559900335"}],"main":"index.js","name":"ViewRaw","description":"View Raw content of messages","vendetta":{"icon":"StatusIdle"},"hash":"e171226e04cdac1d8837b379b858f11b3b53c308baed2c76cf9f77f665f0e985"}
