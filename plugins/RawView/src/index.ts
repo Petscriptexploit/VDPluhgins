@@ -24,7 +24,7 @@ const unpatch = before("openLazy", LazyActionSheet, ([component, key, msg]) => {
       if (!buttons) return
 
       const navigator = () => (
-        <Nagivator
+        <Navigator
           initialRouteName="RawPage"
           goBackOnBackPress
           screens={{
