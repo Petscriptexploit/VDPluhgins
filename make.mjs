@@ -23,6 +23,6 @@ fs.writeFileSync(
 );
 
 fs.writeFileSync(
-    `./plugins/${pluginName}/src/index.tsx`,
+    `./plugins/${pluginName}/src/index.ts`,
     "export default {};\n"
 );
